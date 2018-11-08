@@ -8,6 +8,10 @@ This is exame to show different parts of the Git repository and varous commands 
 
 ## Purpose
 
+As above this is to teach git and github
+
 ## Deployment
+
+this is a simple web project and whatever
 
 ## How To Contribute

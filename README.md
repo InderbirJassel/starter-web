@@ -16,6 +16,8 @@ this is a simple web project and whatever
 
 ## How To Contribute
 
+Please for this repository and then issue Pull Requests for review
+
 ####
 
 2018 Git.Training.

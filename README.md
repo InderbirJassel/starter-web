@@ -15,3 +15,7 @@ As above this is to teach git and github
 this is a simple web project and whatever
 
 ## How To Contribute
+
+####
+
+2018 Git.Training.
